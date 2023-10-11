@@ -6,4 +6,5 @@ The datasets required for the code can be found at http://www.ehu.eus/ccwintco/i
 
 ## Cite
 If you use CS2DT in your work please cite our paper:
+
 Xu H, Zeng Z, Yao W, et al. CS2DT: Cross Spatial–Spectral Dense Transformer for Hyperspectral Image Classification[J]. IEEE Geoscience and Remote Sensing Letters, 2023.
